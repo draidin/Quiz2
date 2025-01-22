@@ -1,0 +1,18 @@
+#num1 = int(input("enter first number"))
+#num2 = int(input("enter second number))
+
+#if num1>num2
+#print("num1 is bigger!")
+#else:
+#    print("num2 is bigger!")
+#--------------------------------------------------------------
+#jeremys = int(input("how many noah do you want"))
+#for i in range(noah):
+#    print("stinky")
+#------------------------------------------------------------------
+#mylist[] = ["enoch", "javi" "jeremy" "noah", "alijandro"]
+#print(myList)
+#myList.append("cory")
+#print(mylist)
+#print(mylist[0], myList[2])
+-----------------------------------------------------------------------
